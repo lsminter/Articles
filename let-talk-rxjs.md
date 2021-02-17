@@ -16,7 +16,7 @@ Observable.pipe(PipeableOperator)
 
 Now Creation Operators, again pretty self explanatory, are operators that create "standalone functions to create a new Observable". 
 
-```rxjs
+```js
 var variable = CreationOperator(data)
 ```
 
