@@ -1,8 +1,4 @@
-Title: Lets Talk RxJS Operators
-
----
-
-## Let's Talk About RxJS Operators
+# Let's Talk About RxJS Operators
 
 To be able to first understand Operators, you need to grok what Observables are. An Observable is basically a function that can return a stream of values to an observer over time, this can either be synchronously or asynchronously. In vanilla JavaScript, they can be compared to Arrays.
 
@@ -14,7 +10,7 @@ Operators are what we use to manipulate Observables and then return an entirely 
 Observable.pipe(PipeableOperator)
 ```
 
-Now Creation Operators are operators that create "standalone functions to create a new Observable".
+Now Creation Operators are operators that make functions that create a new Observable. 
 
 ```js
 var variable = CreationOperator(data)
