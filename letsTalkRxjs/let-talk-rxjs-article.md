@@ -21,14 +21,10 @@ Operators can be compared to Methods in JavaScript. A great example would be the
 ### Why Use Operators in the First Place?
 Now the above example easiest example out there but there is a HUGE [list of Operators](https://www.learnrxjs.io/learn-rxjs/operators) to use! The operators are very aptly named as well with operators such as `merge`, `catchError`, `first`, `repeat`, and `filter`. With such a long list, it's an amazing and very readable way of mutating your data.
 
-I've written up an example of a Creation Operator and a few Pipeable Operators that you can mess around with in [codesandbox](https://codesandbox.io/s/wild-dawn-23lup?fontsize=14&hidenavigation=1&theme=dark&file=/src/script.js)!
+I've written up an example of a Creation Operator and a few Pipeable Operators that you can mess around with in codesandbox!
 
-<iframe src="https://codesandbox.io/embed/wild-dawn-23lup?fontsize=14&hidenavigation=1&theme=dark"
-style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-title="wild-dawn-23lup"
-allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-></iframe>
+[![Edit wild-dawn-23lup](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/embed/github/lsminter/Articles/tree/main/letsTalkRxjs/rxjs-codesandbox-example?expanddevtools=1&fontsize=14&hidenavigation=1&module=%2Fsrc%2Fscript.js&theme=dark)
+
 ---
 
 Sources:
