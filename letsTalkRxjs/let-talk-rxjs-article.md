@@ -19,7 +19,10 @@ var variable = CreationOperator(data)
 Operators can be compared to Methods in JavaScript. A great example would be the JavaScript method `map` and the RxJS Operator, `map`! These two are used EXACTLY the same way, `map(x => 10 * x)`.
 
 ### Why Use Operators in the First Place?
-Now the above example easiest example out there but there is a HUGE [list of Operators](https://www.learnrxjs.io/learn-rxjs/operators) to use! The operators are very aptly named as well with operators such as `merge`, `catchError`, `first`, and `filter`. With such a long list, it's an amazing and very readable way of mutating your data.
+Now the above example easiest example out there but there is a HUGE [list of Operators](https://www.learnrxjs.io/learn-rxjs/operators) to use! The operators are very aptly named as well with operators such as `merge`, `catchError`, `first`, `repeat`, and `filter`. With such a long list, it's an amazing and very readable way of mutating your data.
+
+I've written up an example of a Creation Operator and a few Pipeable Operators that you can mess around with in codesandbox!
+
 
 ---
 
